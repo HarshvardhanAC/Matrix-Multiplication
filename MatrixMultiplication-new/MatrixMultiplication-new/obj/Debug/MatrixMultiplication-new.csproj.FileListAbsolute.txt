@@ -1,0 +1,7 @@
+D:\learning-10days\MatrixMultiplication-new\MatrixMultiplication-new\bin\Debug\MatrixMultiplication-new.exe.config
+D:\learning-10days\MatrixMultiplication-new\MatrixMultiplication-new\bin\Debug\MatrixMultiplication-new.exe
+D:\learning-10days\MatrixMultiplication-new\MatrixMultiplication-new\bin\Debug\MatrixMultiplication-new.pdb
+D:\learning-10days\MatrixMultiplication-new\MatrixMultiplication-new\obj\Debug\MatrixMultiplication-new.csproj.AssemblyReference.cache
+D:\learning-10days\MatrixMultiplication-new\MatrixMultiplication-new\obj\Debug\MatrixMultiplication-new.csproj.CoreCompileInputs.cache
+D:\learning-10days\MatrixMultiplication-new\MatrixMultiplication-new\obj\Debug\MatrixMultiplication-new.exe
+D:\learning-10days\MatrixMultiplication-new\MatrixMultiplication-new\obj\Debug\MatrixMultiplication-new.pdb

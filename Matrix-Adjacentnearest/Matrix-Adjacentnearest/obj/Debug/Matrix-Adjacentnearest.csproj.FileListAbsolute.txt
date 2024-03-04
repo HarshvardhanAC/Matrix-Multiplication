@@ -1,0 +1,14 @@
+D:\learning-10days\Matrix-Adjacentnearest\Matrix-Adjacentnearest\bin\Debug\Matrix-Adjacentnearest.exe.config
+D:\learning-10days\Matrix-Adjacentnearest\Matrix-Adjacentnearest\bin\Debug\Matrix-Adjacentnearest.exe
+D:\learning-10days\Matrix-Adjacentnearest\Matrix-Adjacentnearest\bin\Debug\Matrix-Adjacentnearest.pdb
+D:\learning-10days\Matrix-Adjacentnearest\Matrix-Adjacentnearest\obj\Debug\Matrix-Adjacentnearest.csproj.AssemblyReference.cache
+D:\learning-10days\Matrix-Adjacentnearest\Matrix-Adjacentnearest\obj\Debug\Matrix-Adjacentnearest.csproj.CoreCompileInputs.cache
+D:\learning-10days\Matrix-Adjacentnearest\Matrix-Adjacentnearest\obj\Debug\Matrix-Adjacentnearest.exe
+D:\learning-10days\Matrix-Adjacentnearest\Matrix-Adjacentnearest\obj\Debug\Matrix-Adjacentnearest.pdb
+D:\learning-10days\Matrix-programs\Matrix-Adjacentnearest\Matrix-Adjacentnearest\bin\Debug\Matrix-Adjacentnearest.exe.config
+D:\learning-10days\Matrix-programs\Matrix-Adjacentnearest\Matrix-Adjacentnearest\bin\Debug\Matrix-Adjacentnearest.exe
+D:\learning-10days\Matrix-programs\Matrix-Adjacentnearest\Matrix-Adjacentnearest\bin\Debug\Matrix-Adjacentnearest.pdb
+D:\learning-10days\Matrix-programs\Matrix-Adjacentnearest\Matrix-Adjacentnearest\obj\Debug\Matrix-Adjacentnearest.csproj.AssemblyReference.cache
+D:\learning-10days\Matrix-programs\Matrix-Adjacentnearest\Matrix-Adjacentnearest\obj\Debug\Matrix-Adjacentnearest.csproj.CoreCompileInputs.cache
+D:\learning-10days\Matrix-programs\Matrix-Adjacentnearest\Matrix-Adjacentnearest\obj\Debug\Matrix-Adjacentnearest.exe
+D:\learning-10days\Matrix-programs\Matrix-Adjacentnearest\Matrix-Adjacentnearest\obj\Debug\Matrix-Adjacentnearest.pdb

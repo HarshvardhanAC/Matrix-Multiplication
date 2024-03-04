@@ -1,0 +1,14 @@
+D:\learning-10days\Matrix-with-random-numbers\Matrix-with-random-numbers\bin\Debug\Matrix-with-random-numbers.exe.config
+D:\learning-10days\Matrix-with-random-numbers\Matrix-with-random-numbers\bin\Debug\Matrix-with-random-numbers.exe
+D:\learning-10days\Matrix-with-random-numbers\Matrix-with-random-numbers\bin\Debug\Matrix-with-random-numbers.pdb
+D:\learning-10days\Matrix-with-random-numbers\Matrix-with-random-numbers\obj\Debug\Matrix-with-random-numbers.csproj.AssemblyReference.cache
+D:\learning-10days\Matrix-with-random-numbers\Matrix-with-random-numbers\obj\Debug\Matrix-with-random-numbers.csproj.CoreCompileInputs.cache
+D:\learning-10days\Matrix-with-random-numbers\Matrix-with-random-numbers\obj\Debug\Matrix-with-random-numbers.exe
+D:\learning-10days\Matrix-with-random-numbers\Matrix-with-random-numbers\obj\Debug\Matrix-with-random-numbers.pdb
+D:\learning-10days\Matrix-programs\Matrix-with-random-numbers\Matrix-with-random-numbers\bin\Debug\Matrix-with-random-numbers.exe.config
+D:\learning-10days\Matrix-programs\Matrix-with-random-numbers\Matrix-with-random-numbers\bin\Debug\Matrix-with-random-numbers.exe
+D:\learning-10days\Matrix-programs\Matrix-with-random-numbers\Matrix-with-random-numbers\bin\Debug\Matrix-with-random-numbers.pdb
+D:\learning-10days\Matrix-programs\Matrix-with-random-numbers\Matrix-with-random-numbers\obj\Debug\Matrix-with-random-numbers.csproj.AssemblyReference.cache
+D:\learning-10days\Matrix-programs\Matrix-with-random-numbers\Matrix-with-random-numbers\obj\Debug\Matrix-with-random-numbers.csproj.CoreCompileInputs.cache
+D:\learning-10days\Matrix-programs\Matrix-with-random-numbers\Matrix-with-random-numbers\obj\Debug\Matrix-with-random-numbers.exe
+D:\learning-10days\Matrix-programs\Matrix-with-random-numbers\Matrix-with-random-numbers\obj\Debug\Matrix-with-random-numbers.pdb

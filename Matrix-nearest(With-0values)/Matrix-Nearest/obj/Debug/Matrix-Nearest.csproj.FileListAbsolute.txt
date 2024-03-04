@@ -1,0 +1,7 @@
+D:\learning-10days\Matrix-Nearest\Matrix-Nearest\bin\Debug\Matrix-Nearest.exe.config
+D:\learning-10days\Matrix-Nearest\Matrix-Nearest\bin\Debug\Matrix-Nearest.exe
+D:\learning-10days\Matrix-Nearest\Matrix-Nearest\bin\Debug\Matrix-Nearest.pdb
+D:\learning-10days\Matrix-Nearest\Matrix-Nearest\obj\Debug\Matrix-Nearest.csproj.AssemblyReference.cache
+D:\learning-10days\Matrix-Nearest\Matrix-Nearest\obj\Debug\Matrix-Nearest.csproj.CoreCompileInputs.cache
+D:\learning-10days\Matrix-Nearest\Matrix-Nearest\obj\Debug\Matrix-Nearest.exe
+D:\learning-10days\Matrix-Nearest\Matrix-Nearest\obj\Debug\Matrix-Nearest.pdb

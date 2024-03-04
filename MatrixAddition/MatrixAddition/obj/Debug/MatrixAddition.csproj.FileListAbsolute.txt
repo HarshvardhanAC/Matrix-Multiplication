@@ -1,0 +1,7 @@
+D:\learning-10days\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe.config
+D:\learning-10days\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe
+D:\learning-10days\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.pdb
+D:\learning-10days\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csproj.AssemblyReference.cache
+D:\learning-10days\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csproj.CoreCompileInputs.cache
+D:\learning-10days\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.exe
+D:\learning-10days\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.pdb

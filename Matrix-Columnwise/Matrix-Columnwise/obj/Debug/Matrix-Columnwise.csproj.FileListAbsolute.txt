@@ -1,0 +1,7 @@
+D:\learning-10days\Matrix-Columnwise\Matrix-Columnwise\bin\Debug\Matrix-Columnwise.exe.config
+D:\learning-10days\Matrix-Columnwise\Matrix-Columnwise\bin\Debug\Matrix-Columnwise.exe
+D:\learning-10days\Matrix-Columnwise\Matrix-Columnwise\bin\Debug\Matrix-Columnwise.pdb
+D:\learning-10days\Matrix-Columnwise\Matrix-Columnwise\obj\Debug\Matrix-Columnwise.csproj.AssemblyReference.cache
+D:\learning-10days\Matrix-Columnwise\Matrix-Columnwise\obj\Debug\Matrix-Columnwise.csproj.CoreCompileInputs.cache
+D:\learning-10days\Matrix-Columnwise\Matrix-Columnwise\obj\Debug\Matrix-Columnwise.exe
+D:\learning-10days\Matrix-Columnwise\Matrix-Columnwise\obj\Debug\Matrix-Columnwise.pdb
